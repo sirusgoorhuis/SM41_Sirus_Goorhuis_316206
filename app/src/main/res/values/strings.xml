@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="firstname_placeholder">Voornaam</string>
+    <string name="lastname_placeholder">Achternaam</string>
+    <string name="email_placeholder">Email-adres</string>
+    <string name="password_placeholder">Wachtwoord</string>
+    <string name="passwordagain_placeholder" />
+    <string name="passwordagain2_placeholder">Wachtwoord nogmaals</string>
+    <string name="username_placeholder">Username</string>
+</resources>
